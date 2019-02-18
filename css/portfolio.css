@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+    font-size: 44px;
+    font-weight: 800;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+.red {
+    color: #ff0000;
+    display: inline;
+}
